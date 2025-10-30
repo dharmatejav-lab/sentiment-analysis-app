@@ -51,4 +51,4 @@ This app analyzes customer feedback from surveys and classifies each response as
 
 🌐 Online Demo
 Try it here:
-🔗 https://dharmatejav-lab-sentiment-analysis-app.streamlit.app
+🔗 (https://sentiment-analysis-app-dharmatejav.streamlit.app/#customer-sentiment-analyzer)
