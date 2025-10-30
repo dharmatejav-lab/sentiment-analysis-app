@@ -1,0 +1,6 @@
+CustomerID,Response,transformer_sentiment
+1,"I love your service, very satisfied!",POSITIVE
+2,The delivery was late and the product was damaged.,NEGATIVE
+3,"Okay experience, not too bad but could be better.",POSITIVE
+4,"Excellent support team, fast response!",POSITIVE
+5,"Horrible quality, I want a refund!",NEGATIVE
